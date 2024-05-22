@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'angel';
+    src: url('Angel wish.ttf') format(truetype),
+    url('Angel wish.otf') format(opentype)
+    ;
+}
+.BASICO {
+
+    background-color: aqua;
+    color: lemonchiffon;
+    text-align: center;
+}
+#principal {
+
+    background-color: #08648B;
+    color: white;
+    text-align: center;
+}
+body {
+       
+        font-size: 2em;
+
+    background: linear-gradient(to right,#0fb3fa7c,#0eadf170);
+
+
+}
+
+h1 {
+    font-family: 'angel','san-serif' ;
+    color: #08648B;
+}
+
+h2 {
+    font-family: 'angel', 'sans-serif';
+    color: #0A7DAD;
+}
